@@ -5,6 +5,7 @@ import Registration from "./registration";
 function App() {
   return (
     <div className="App">
+      <p>My App</p>
       <Registration />
     </div>
   );
